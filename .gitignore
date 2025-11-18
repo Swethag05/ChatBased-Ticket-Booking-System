@@ -1,0 +1,16 @@
+# NetBeans Projects
+/nbproject/private/
+/build/
+/dist/
+/nbbuild/
+/nbdist/
+.nbattrs
+*.orig
+/lib/
+/classes/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
